@@ -15,8 +15,8 @@ Our use of OKRs follows the [whatmatters.com](https://www.whatmatters.com/) guid
 1. The System Squad has 3-5 topline OKRs, with at least one of those being aspirational.
 1. The Auxilary Squad is not doing topline OKRs. Instead, only frontline (individual) OKRs.
 1. All team members have 3-5 OKRs.
-1. Roughly 50% should cascade (contribute towards) squad OKRs (if on System Squad).
-1. At lease one OKR is aspirational.
+   1. Roughly 50% should cascade (contribute towards) squad OKRs (if on System Squad).
+   1. At lease one OKR is aspirational.
 
 ### Tracking OKRs
 
