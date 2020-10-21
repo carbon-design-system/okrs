@@ -1,74 +1,43 @@
 # OKR playbook
 
-## What are OKRs, and why are we using them?
+Our team uses Objective and Key Results (OKRs) to set challenging, ambitious, goals with measurable results. OKRs are how we track progress, create alignment, and encourage engagement around measurable goals. OKRs help us stretch for excellence as we show everyone the choices we've made as a team and team members, and how we're going to get there.
 
-Objectives and key results are a way of setting, communicating, measuring, and achieving the right goals.
+Our use of OKRs follows the [whatmatters.com](https://whatmatters.com) guidance:
 
-OKRs are how we show everyone the choices we've made, as a team, on what we're going to do. And they're a way of stretching for real excellence.
+- [What is an OKR? Definition and examples](https://www.whatmatters.com/faqs/okr-meaning-definition-example/)
+- [Google's OKR playbook](https://www.whatmatters.com/resources/google-okr-playbook/)
 
-## How do we write them?
+## 2020Q4 guidance
 
-If we do this badly, then we may as well not bother. It's just extra work for us; an empty gesture. Done right, they'll help us identify and focus on the most important work. And protect us from distractions of "urgent" but less important requests.
+### Setting OKRs
 
-**Objectives** define our intent; what we are going to do.
+1. The Carbon team does not have any topline OKRs for Q4. We hope to do so in 2021 as both Q1 and annual OKRs.
+1. The System Squad has 3-5 topline OKRs, with at least one of those being aspirational.
+1. The Auxilary Squad is not doing topline OKRs. Instead, only frontline (individual) OKRs.
+1. All team members have 3-5 OKRs.
+1. Roughly 50% should cascade (contribute towards) squad OKRs (if on System Squad).
+1. At lease one OKR is aspirational.
 
-- It is obvious when we achieve them.
-- Success must bring clear business value to IBM.
+### Tracking OKRs
 
-**Key Results** show the measures that move our objectives forward.
+1. System Squad references and updates (modifies if necessary) its topline OKRs as part of each sprint planning.
+1. Individual OKRs are discussed in every one-on-one.
 
-- Define outcomes, not activities.
-- Provide evidence of completion.
+### Scoring OKRs
 
-OKRs should be written so that if the key results are complete, then the objective will be achieved.
+1. Self-assessment and scoring happens at the end of each quarter.
 
-OKRs should not define "business as usual".
+### Using ZenHub
 
-There are two types of OKR.
+We use the [carbon-design-system/okrs](https://github.com/carbon-design-system/okrs) GitHub repository with a ZenHub workspace to visualize through a roadmap and board. All GitHub [labels](https://github.com/carbon-design-system/okrs/labels) have descriptions to help guide usage.
 
-**Committed** OKRs that we agree will be delivered (i.e. commitments). We immediately raise risks to that delivery. And we have a post-mortem if we don't deliver.
-
-**Aspirational** OKRs define our "ideal state". We don't need to know exactly how we'll do that, or what it'll involve.
-
-Teams and individuals should have at least one aspirational OKR as well as their commited OKRs.
-
-## What happens then?
-
-- We rearrange any other priorities so that we can deliver successfully on our OKRs.
-- Our release planning, issue writing, and other processes support OKR delivery.
-- OKRs consume almost all our available resources.
-- We make sure that all the potential stakeholders in an OKR have specific OKRs at their team or individual level to support it.
-
-## The practicalities
-
-### Who?
-
-The **Carbon team** will have 1-3 OKRs, that will cascade to squad OKRs. These OKRs can be quarterly or annual, but we'll always reassess quarterly.
-
-**Squads** will have 3-5 quarterly OKRs, that will cascade to team member OKRs.
-
-Every **team member** will have 3-5 quarterly OKRs.
-
-### How?
-
-Matt will be the OKR "shepherd" - to help squads and individuals with the OKR process.
-
-Squad KRs will have an "owner" (and not all the same person!).
-
-Half of an individual OKRs should be cascaded from their squad (top down). The other half should directly or indirectly assist Carbon-level OKRs (bottom up).
-
-We will take at least a week at the end of every quarter to focus on reassessing OKRs and writing for next quarter. We'll discuss OKRs in every 1-1.
-
-### Where?
-
-- Each Objective and each of its Key Results are set as GitHub issues
-  - Two `objective` labels to denote committed or aspirational
-  - Top-line Objectives get a `team` or `squad` label
-  - Many `key result` labels to state its status
-  - GitHub issue "assignee" used to set Objective and Key Result owner
-- GitHub milestones are used so we can filter in ZenHub, e.g. `2020Q3`
-- Each Objective gets set as a ZenHub Epic so its Key Results can belong to it
-  - Key Results that are cascaded can become ZenHub Epics too
-- Use of `score` labels are TBD
-- ZenHub roadmap used to see top-line Objectives, grouped by team and squad
-- Only close completed Key Results and achieved Objectives at end of each quarter as we evaluate our performance
+- Each Objective and each of its Key Results are set as GitHub issues.
+  - Two `objective` labels to denote committed or aspirational.
+  - Top-line Objectives get a `team` or `squad` label.
+  - Many `key result` labels to state its status.
+  - GitHub issue "assignee" used to set Objective and Key Result owner.
+- GitHub milestones are used so we can filter in ZenHub, e.g. `2020Q4`.
+- Each Objective gets set as a ZenHub Epic so its Key Results can belong to it.
+  - Key Results that are cascaded can become ZenHub Epics too.
+- `score` labels are used at the end of each OKR cycle.
+- ZenHub roadmap used to see top-line Objectives, grouped by team and squad.
