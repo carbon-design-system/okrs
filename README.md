@@ -10,7 +10,7 @@ Objectives and Key Results for the Carbon team.
 
 ## 📚 Documentation
 
-- [Playbook](./docs/playbook.md): The what, why, how, and where
+- [Playbook](./docs/playbook.md)
 
 ## 📝 License
 
